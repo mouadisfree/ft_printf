@@ -1,5 +1,5 @@
 # ft_printf - My printf Function
-
+<img width="1547" height="876" alt="ft_printf" src="https://github.com/user-attachments/assets/bf6526bf-ff49-441f-a431-e61f3e3e6419" />
 
 *My custom printf implementation project*
 ---
